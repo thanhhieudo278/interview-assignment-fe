@@ -1,0 +1,8 @@
+@import "../../../node_modules/bootstrap/scss/bootstrap.scss";
+@import '@shopify/polaris/build/esm/styles.css';
+
+
+//fix float overlay
+.clear {
+    clear: both;
+}
